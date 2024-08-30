@@ -22,6 +22,8 @@ Awal Mula Terbentuknya SSD:
    #. SSD telah menjadi standar dalam banyak perangkat modern, menggantikan HDD dalam banyak aplikasi karena kecepatan baca/tulis yang jauh lebih tinggi, konsumsi daya yang lebih rendah, dan ketahanan yang lebih baik terhadap kerusakan fisik.
    #. SSD terus mengalami peningkatan dalam hal kapasitas, kecepatan, dan keandalan, dengan teknologi seperti NVMe (Non-Volatile Memory Express) yang semakin mempercepat akses data.
 
+![alt text](https://3.bp.blogspot.com/-OEEogaAF4wQ/WopT6JLUgeI/AAAAAAAAGfo/P_KUDgxcRAodBUE6_a5xLnVAnYO5UUQ0gCLcBGAs/s1600/Seberapa%2BPenting%2BSSD%2Bpada%2BSebuah%2BPC%2Bdan%2BLaptop%2Bdan%2BKenapa%2BHarganya%2BMahal%2BEmang%2BBermanfaat%2BBanget%2BYa%2BIni%2BAlasannya.jpg?raw=true)   
+
 Kegunaan SSD:
   1. Kecepatan Akses Data:
      SSD menawarkan kecepatan baca dan tulis yang jauh lebih tinggi dibandingkan dengan HDD, sehingga waktu booting sistem operasi, membuka aplikasi, dan transfer file menjadi lebih cepat.
