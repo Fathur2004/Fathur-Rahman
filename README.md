@@ -1,6 +1,9 @@
 ![alt text](https://github.com/Fathur2004/Fathur-Rahman/blob/main/download.jpg?raw=true)
 
+SSD (Solid State Drive)
 Pengertian Solid State Drive (SSD) adalah jenis perangkat penyimpanan data yang menggunakan sirkuit elektronik berbasis semikonduktor untuk menyimpan data secara permanen. Berbeda dengan Hard Disk Drive (HDD) yang menggunakan piringan berputar dan lengan mekanis untuk membaca serta menulis data, SSD tidak memiliki bagian bergerak, yang membuatnya lebih cepat dan lebih tahan lama.
+
+![alt text](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVhQB2Vjd5PdsfuobAhTc3Tb-grTba4qoDaKcuYQAkOc4DK_nkuDF3Cboeiplzw1WqbL8-zATsRsv-gmcmznmowGbq7kY3WCYb___hdDhIyxHdYjQsM4BKnJnJ9JESJINe0PkjTVmxHpcNiEAgKK_GLyLD8zKlj7NDuea6FgG98M3rZwa9JwR9as8ifgZq/w1200-h630-p-k-no-nu/Sejarah-Singkat-SSD.webp?raw=true)
 
 Awal Mula Terbentuknya SSD:
 1. 1970-an - 1980-an: Konsep dan Awal Pengembangan:
